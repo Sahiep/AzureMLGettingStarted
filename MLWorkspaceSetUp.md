@@ -16,7 +16,7 @@
 
 3.  In the Create Machine Learning Workspace dialog that appears, provide the following values:
 
-    - **Workspace Name**: AML-workspace
+    - **Workspace Name**: AML-workspace-["personal identifier"]
 
     - **Subscription**: Choose your Azure subscription.
 

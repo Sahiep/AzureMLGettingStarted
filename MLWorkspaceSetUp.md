@@ -1,8 +1,10 @@
 ### Create your Ressource Group
 
-1.  In the [Azure Portal](https://portal.azure.com) (https://portal.azure.com), select **+ Create a resource**, then type `Azure Machine Learning` into the search bar. Select `Machine Learning service workspaces` from the results.
+1.  In the [Azure Portal](https://portal.azure.com) (https://portal.azure.com), select **+ Resource groups**, then click `Create resource group`.
 
-    ![Select create a resource, type in Azure Machine Learning, then select it from the results list.](images/create-aml-resource.png 'Create a resource')
+    ![Click on create resource group.](images/RG.png 'Create a resource group')
+    
+    ![Select subscription, enter a name for the resource group and choose "northeurop" as location.](images/CreateRG.png 'Create a resource group')
 
 ### Create your Azure Machine Learning Workspace
 

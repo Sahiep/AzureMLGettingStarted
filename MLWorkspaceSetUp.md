@@ -3,7 +3,9 @@
 1.  In the [Azure Portal](https://portal.azure.com) (https://portal.azure.com), select **+ Resource groups**, then click `Create resource group`.
 
     ![Click on create resource group.](images/RG.png 'Create a resource group')
-    
+
+2. Select subscription, enter a name for the resource group and choose `northeurope` as a location.
+
     ![Select subscription, enter a name for the resource group and choose "northeurop" as location.](images/CreateRG.png 'Create a resource group')
 
 ### Create your Azure Machine Learning Workspace

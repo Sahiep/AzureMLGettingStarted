@@ -1,3 +1,6 @@
+## Prepare your Environment
+
+
 ### Create your Ressource Group
 
 1.  In the [Azure Portal](https://portal.azure.com) (https://portal.azure.com), select **+ Resource groups**, then click `Create resource group`.
@@ -37,6 +40,6 @@
 
       ![Create New Notebook VM.](images/JupyterVMs.PNG 'Azure Machine Learning Workspace Creation Dialog')
     
-2. Define a **+ Name** for your VM and select **+STANDARD_D3_V2** as VM size. Select `Create`
+2. Define a **+ Name** for your VM (Notebook instance names should be unique within an Azure region) and select **+STANDARD_D3_V2** as VM size. Select `Create` 
 
       ![Create New Notebook VM.](images/CreateJupyterVM.PNG 'Azure Machine Learning Workspace Creation Dialog')

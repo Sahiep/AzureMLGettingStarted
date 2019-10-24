@@ -29,3 +29,14 @@
     ![Entering the previously provided value in the Create Machine Learning Workspace dialog.](images/create-aml-workspace.png 'Azure Machine Learning Workspace Creation Dialog')
 
 4.  Select **Review + Create** and then select **Create** on the dialog that appears.
+
+
+### Create your Jupyter Notebook VM
+
+1. In the newly created Machine Learning Workspace select **+ Notebook VMs** and select **+ New*
+
+      ![Create New Notebook VM.](images/JupyterVMs.PNG 'Azure Machine Learning Workspace Creation Dialog')
+    
+2. Define a **+ Name** for your VM and select **+STANDARD_D3_V2** as VM size. Select `Create`
+
+      ![Create New Notebook VM.](images/CreateJupyterVM.PNG 'Azure Machine Learning Workspace Creation Dialog')

@@ -1,7 +1,7 @@
-## Prepare your Environment
+# Prepare your Environment
+---------------------------------
 
-
-### Create your Ressource Group
+## Create your Ressource Group
 
 1.  In the [Azure Portal](https://portal.azure.com) (https://portal.azure.com), select **+ Resource groups**, then click `Create resource group`.
 
@@ -11,7 +11,9 @@
 
     ![Select subscription, enter a name for the resource group and choose "northeurop" as location.](images/CreateRG.png 'Create a resource group')
 
-### Create your Azure Machine Learning Workspace
+
+
+## Create your Azure Machine Learning Workspace
 
 1.  In the [Azure Portal](https://portal.azure.com) (https://portal.azure.com), select **+ Create a resource**, then type `Azure Machine Learning` into the search bar. Select `Machine Learning service workspaces` from the results.
 
@@ -34,7 +36,8 @@
 4.  Select **Review + Create** and then select **Create** on the dialog that appears.
 
 
-### Create your Jupyter Notebook VM
+
+## Create your Jupyter Notebook VM
 
 1. In the newly created Machine Learning Workspace select **+ Notebook VMs** and select **+ New*
 

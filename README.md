@@ -2,11 +2,11 @@
 
 Azure Machine Learning (Azure ML) is a cloud-based service that enables data scientists, AI software engineers, and others to collaborate on machine learning projects and manage data science workloads at scale. 
 
-These hands-on exercises are designed to introduce the core concepts and components on an Azure ML solution. 
+These hands-on exercises are designed to introduce the core concepts and components of an Azure ML solution. 
 
 In a separate browser tab, sign into your Azure subscription and view your portal at https://portal.azure.com. As you proceed through the tasks below, you'll toggle between this notebook and the portal to visually confirm that the code you've run here has had the intended results in your Azure subscription.
 
-![Azure ML Workflow](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/master/articles/machine-learning/service/media/concept-azure-machine-learning-architecture/workflow.png)
+![Azure ML Workflow](https://github.com/Sahiep/AzureMLGettingStarted/blob/master/images/pipeline-flow.png)
 
 In this Hands-on Session we will: 
 

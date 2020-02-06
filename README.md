@@ -16,13 +16,13 @@ In this Hands-on Session we will:
 4) Deploy a machine learning model as web service
 
 Prerequisits:
-1) Create a Machine Learning Workspace
+1) [Create a Machine Learning Workspace](https://github.com/Sahiep/AML-Setup.git)
 
 Additional Notebooks are covering:
 1) Azure ML Pipeline
 2) Automated Machine Learning
 
-## Quick installation
+## Pip install AzureML SDK
 ```sh
 pip install azureml-sdk
 ```

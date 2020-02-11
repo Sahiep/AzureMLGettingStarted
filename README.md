@@ -16,7 +16,7 @@ In this Hands-on Session we will:
 4) Deploy a machine learning model as web service
 
 Prerequisits:
-1) Machine Learning Workspace ([Here](https://github.com/Sahiep/AML-Setup.git) you can find a simple Shell Script to setup your ML Workspace)
+1) Machine Learning Workspace ([Here](https://github.com/Sahiep/AML-Setup.git) you can find a simple Bash Script to setup your ML Workspace)
 
 Additional Notebooks are covering:
 1) Azure ML Pipeline

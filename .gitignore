@@ -3,6 +3,7 @@ env.dns.json
 env.dns.tf
 env.sh.backup
 sample.tfvars
+config.json
 ~$*
 
 ## Ignore Visual Studio temporary files, build results, and
